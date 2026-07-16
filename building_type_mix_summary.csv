@@ -1,0 +1,7 @@
+building_type,target_share,realized_share,delta_pct_pt,count
+office,0.28,0.2941,1.41,15
+retail,0.2,0.1961,-0.39,10
+hotel,0.1,0.098,-0.2,5
+hospital,0.08,0.0784,-0.16,4
+education,0.18,0.1765,-0.35,9
+mixed_use,0.16,0.1569,-0.31,8

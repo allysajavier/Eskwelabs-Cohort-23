@@ -1,0 +1,11 @@
+site_id,country_code,climate_zone,latitude,longitude,elevation,timezone,utility_type,outage_risk_index,baseline_grid_carbon
+SITE_0001,MY,tropical_wet,4.543,100.1357,28.1,Asia/Kuala_Lumpur,regulated,0.251,0.585
+SITE_0002,PH,tropical_wet,13.4799,123.8762,350.7,Asia/Manila,regulated,0.525,0.558
+SITE_0003,PH,tropical_wet,8.9511,125.5623,379.4,Asia/Manila,regulated,0.511,0.558
+SITE_0004,TH,tropical_savanna,9.6681,99.2656,305.4,Asia/Bangkok,regulated,0.214,0.508
+SITE_0005,SG,tropical_equatorial,1.2649,103.772,13.2,Asia/Singapore,deregulated,0.096,0.408
+SITE_0006,SG,tropical_equatorial,1.1899,104.0611,3.9,Asia/Singapore,deregulated,0.113,0.408
+SITE_0007,VN,tropical_monsoon,21.7818,104.7123,57.7,Asia/Ho_Chi_Minh,regulated,0.381,0.51
+SITE_0008,PH,tropical_wet,16.8691,126.8374,427.7,Asia/Manila,regulated,0.49,0.558
+SITE_0009,PH,tropical_wet,11.7546,125.1752,81.3,Asia/Manila,regulated,0.635,0.558
+SITE_0010,PH,tropical_wet,15.7291,123.519,35.7,Asia/Manila,regulated,0.567,0.558
